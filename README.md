@@ -1,1 +1,1 @@
-# cs61a_hog
+# CS61A Hog Project
